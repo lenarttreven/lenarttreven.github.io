@@ -4,7 +4,7 @@ collection: teaching
 type: "High school course"
 permalink: /teaching/2015-math_preparations
 venue: "Diocesan Classical Gymnasium"
-date: 2015
+date: 2015-12-01
 location: "Ljubljana, Slovenia"
 ---
 
