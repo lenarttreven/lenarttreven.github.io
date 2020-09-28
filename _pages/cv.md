@@ -9,11 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV can be found here: [(pdf)]({{site.baseurl}}/files/lenart_treven_cv.pdf).
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-  Currently 2nd year MSc student of Data Science
+    - ETH Zurich
+    - thesis: _"Online Learning of Linear Quad"_ [(pdf)]({{site.baseurl}}/files/trevenl_msc_thesis.pdf) 
+- B.Sc. in Mathematics
+    - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
+    - GPA 10.0/10
+    - thesis: _"Support Vector Machines"_ [(pdf in slovenian)]({{site.baseurl}}/files/lenart_treven_bsc_thesis.pdf) 
 
 Work experience
 ======
