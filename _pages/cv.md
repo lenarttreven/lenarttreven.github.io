@@ -26,7 +26,7 @@ Work experience
 ======
 - December 2019 - Februar 2020: Data Scientist
     - Eumedica 
-    - Optimization of chemical production
+    -  Worked on optimization of chemical production
   
 
 - Summer 2017: Software developer intern
@@ -49,12 +49,12 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
