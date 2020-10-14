@@ -14,10 +14,13 @@ Full CV can be found here: [(pdf)]({{site.baseurl}}/files/lenart_treven_cv.pdf).
 
 Education
 ======
--  Currently 2nd year M.Sc. student of Data Science
+- PhD in Machine Learning (2020 - current)
     - ETH Zurich
+- M.Sc. in Data Science (2018 - 2020)
+    - ETH Zurich
+    - GPA 5.86/6
     - thesis: _"Online Learning of Linear-Quadratic Regulators"_ [(pdf)]({{site.baseurl}}/files/trevenl_msc_thesis.pdf) 
-- B.Sc. in Mathematics
+- B.Sc. in Mathematics (2015 - 2018)
     - Faculty of Mathematics and Physics, University of Ljubljana, Slovenia
     - GPA 10.0/10
     - thesis: _"Support Vector Machines"_ [(pdf in slovenian)]({{site.baseurl}}/files/lenart_treven_bsc_thesis.pdf) 
