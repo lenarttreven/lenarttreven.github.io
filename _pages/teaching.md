@@ -28,7 +28,9 @@ I was fortunate to supervise the following students:
 - **Arnav Sukhija** — *Time-Adaptive Robotic Control* (Bachelor thesis, 2025) 
 - **Klemens Iten** — *Scalable and Efficient Exploration via Intrinsic
 Rewards in Continuous-time Dynamical Systems* (Semester project, 2025) 
+- **Christopher Biel** — *Learning System Dynamics in Continuous-Time from State Observations Only* (Master thesis, 2024) 
 - **Balduin Dettling** — *Continuous-Time Approximate Dynamic Programming as an Active Learning Problem* (Master thesis, 2024) 
+- **Antanas Murelis** — *Experimental Design in Non-linear Dynamical Systems* (Master thesis, 2023) 
 - **Ivan Rodriguez** — *Unsupervised reinforcement learning in the real-world* (Master thesis, 2023) 
 - **Jonas Hübotter** — *Information-based transductive learning* (Master thesis, 2023) 
 - **Hong Chul Nam** — *Continuous-time reinforcement learning in the real-world* (Semester project, 2023)

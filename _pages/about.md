@@ -35,7 +35,7 @@ latest_posts:
 
 I am part of [LAS Group](https://las.inf.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html). During my PhD I was advised by [Andreas Krause](https://las.inf.ethz.ch/krausea) and [Florian Dörfler](https://dorfler.ethz.ch/).
 During my PhD I developed algorithms in the area of continuous-time RL, safe RL, optimistic RL, Bayesian Deep Learning, etc.  
-Currently, I am Research Scientist Intern at Google DeepMind working on post-training of LLMs. 
+From June 2025 to October 2025 I was Research Scientist Intern at Google DeepMind working on post-training of LLMs. 
 
 Prior to my PhD I did Data Science Master at ETH Zürich and Mathematics Bachelor at University of Ljubljana. For my master thesis I received ETH Medal and for Bachelor thesis I received Faculty Preseren Prize. 
 
